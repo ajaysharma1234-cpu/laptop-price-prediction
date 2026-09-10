@@ -1,10 +1,10 @@
 # 💻 Laptop Price Prediction using Machine Learning
 
-## Live Demo
+## Live Demo:https://laptop-price-prediction-pij8hjykbckqeldw3sphev.streamlit.app/
 
 🚀 Try the application here:
 
-https://laptop-price-prediction-zhcs33w8esgs96j6zbcrhq.streamlit.app/
+https://laptop-price-prediction-pij8hjykbckqeldw3sphev.streamlit.app/
 
 ---
 
